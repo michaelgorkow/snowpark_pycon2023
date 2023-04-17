@@ -1,0 +1,7 @@
+{
+    "account": "ACCOUNTNAME",
+    "user": "USERNAME",
+    "role": "ACCOUNTADMIN",
+    "password": "PASSWORD",
+    "warehouse": "COMPUTE_WH"
+}
